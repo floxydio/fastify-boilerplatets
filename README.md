@@ -8,15 +8,9 @@
 - Todo Example for Routes & Controller
 - Add BodyParser, Cors, Helmet in Middleware
 
-[0.2 - Incoming 09 Agustus] : 
-- Example Query and Add Prisma
-- JWT Middleware
-- Service Folder for Repository
+[0.2.test - November Update] : 
+- Add Example Validator using `fluent-json-schema`
 
-[0.3 - Incoming 12 Agustus] :
-- Add Jest Testing
-- Add Benchmark Testing
-- More Logging 
 
 
 

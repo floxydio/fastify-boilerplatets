@@ -13,7 +13,6 @@ const start = async () => {
 
         // Route
         TodosRoute(fastify)
-        // End of Route
 
         await fastify.listen({ port: Number(process.env.PORT) });
         console.log(`Server started at ${process.env.PORT}`);
